@@ -11,6 +11,7 @@ Created as a project for Queen Mary University of London's Creating Interactive 
 
 ## Hand Gestures
 Hand gestures mimic Marvel superheros, each with different strength and weaknesses. One might be more powerful, but take longer to charge for example.
+
 <img src="https://user-images.githubusercontent.com/9166875/60480626-0e66c680-9c3f-11e9-9afd-4d26264ad8f1.png" height="200"/>
 
 ## Game Flow
